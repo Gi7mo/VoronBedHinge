@@ -67,4 +67,4 @@ for all bed connections i used some ponenix contact MSTBT 2,5/15-ST-5,08 connect
 - This readme file contains Amazon Associate, Aliexpress affiliate, PCBWay affiliate links. I make a comission on qualifying purchases.
 - This project does not come with any warranty, if you choose to build/use one, you are doing this at your own risk!
 - special thanks to [xbst](https://github.com/xbst/VoronUsers/tree/master/printer_mods/xbst_/Bed_Hinge) whose mod inspired me for mine
-- special thanks to homewerken, whose originally designed the bed handle and brace
+- special thanks to homewerken, who originally designed the bed handle and brace
