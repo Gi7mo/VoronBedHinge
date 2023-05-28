@@ -19,6 +19,9 @@ I tested this bed hinge mod only on a 300 spec Voron, if and how it fits other s
 | M5 Roll-in Nut | 8 | [Link](https://s.click.aliexpress.com/e/_DkqEN7P)|
 | 20x20 profile hinges | 2 | [Link](IMAGES/joint_connector.png)|
 
+for all bed connections i used some ponenix contact MSTBT 2,5/15-ST-5,08 connectors
+[order number 1781111](https://www.buerklin.com/de/p/phoenix-contact/steckverbindersysteme/1781111/63P6292/) and [order number 1788664](https://www.buerklin.com/de/p/phoenix-contact/steckverbindersysteme/1788664/63P7120/)
+
 **Pre-Assembly**
 - order all the hardware
     - for the joint connector i recommend a connector that can be clamped, so it can't wobble
